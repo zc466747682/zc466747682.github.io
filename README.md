@@ -1,4 +1,4 @@
-## 个人博客于2019年3月21日搭建
+## 博客于2019年3月21日搭建
 
 You can use the [editor on GitHub](https://github.com/zc466747682/Zhu_C.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
