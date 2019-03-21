@@ -1,6 +1,8 @@
 ## 个人博客于2019年3月21日搭建
 
-You can use the [editor on GitHub](https://github.com/zc466747682/Zhu_C.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[我的博客主页](https://superslamzzz.github.io/)
+
+You can use the [editor on GitHub](https://github.com/superslamzzz/superslamzzz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
