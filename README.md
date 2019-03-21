@@ -2,9 +2,9 @@
 
 [我的博客主页](https://superslamzzz.github.io/)
 
-You can use the [editor on GitHub](https://github.com/superslamzzz/superslamzzz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用[editor on GitHub](https://github.com/superslamzzz/superslamzzz.github.io/edit/master/README.md) 在Markdown文件中维护和预览网站内容.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+无论你合适向仓库提交内容, GitHub Pages 将会根据你的Markdown文件运行 [Jekyll](https://jekyllrb.com/) 来重构你的个人网站, .
 
 ### Markdown教程
 
@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll 主题
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zc466747682/Zhu_C.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
