@@ -3,13 +3,13 @@ title: SuperSlamZzz的博客
 email: zhuchun92@163.com
 description: 2019年07月11日坐标武汉，开始整理我的知识库.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+url: "https://superslamzzz.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: SuperSlamZzz~
+user_description: ITer.
+disqus_username: disqus_username是啥
 
 # Social Media
 # Remove the item if you don't need it
