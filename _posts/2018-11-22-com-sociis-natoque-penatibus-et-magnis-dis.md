@@ -1,50 +1,45 @@
 ---
 layout: post
-title: "Com sociis natoque penatibus et magnis dis"
-date: 2018-11-22 12:26:40
+title: "MyBlog One MarkDown"
+date: 2019-07-11 16:03:00
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1501268554/sunrise_ttb9nk.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'tutorial'
+description: 第一篇博客，作为MarkDown教程使用.
+category: 'ppp'
 tags:
 - html
-- tutorial
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- ppp
+twitter_text: MarkDown教程。
+introduction: 学习我应该怎么去编辑一篇博客。
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+这是第一行 <a href="#">点这个跳转顶部</a>， 带有星号的是 *斜体字* 。
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> 尖括号代表了引用
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+带双星号的是 **加粗内存** 。
 
-## Inline HTML elements
+## 双井号是二级标题
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+这是个超链接，可以点击跳转，用的是方括号括起来文字，小括号贴上跳转的路径 [这是方括号中的内容，点我跳转百度首页](https://www.baidu.com).
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+- 在HTML语句中**加粗**, 使用 `<strong>`.
+- *斜体字*, 使用 `<em>`.
 
 Most of these elements are styled by browsers with few modifications on our part.
 
-# Heading 1
+# 一级标题
 
-## Heading 2
+## 二级标题
 
-### Heading 3
+### 三级标题
 
-#### Heading 4
+#### 四级标题
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+这是正文内容
 
-## Code
+## 以下为代码添加方式
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
+好像是js代码
 ```js
 // Example can be run directly in your JavaScript console
 
@@ -56,77 +51,72 @@ adder(2, 6);
 // > 8
 ```
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+```java
+这部分好像是java代码，试试看
+public static void public static void main(String[] args) {
+  System.out.println("这是段java代码")
+}
+```
 
-## Lists
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+## 列表清单
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+* 第一列
+* 第二列
+* 第三列
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+## 序号的呢
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+1. 第一行
+2. 第二行
+3. 第三行
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+## 图片
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+![placeholder](https://placehold.it/850x450 "Large example image")
+![placeholder](https://placehold.it/450x250 "Medium example image")
+![placeholder](https://placehold.it/250x250 "Small example image")
 
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+## 表格
 
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
+      <th>第一列名用th标签</th>
+      <th>第二列名用th标签</th>
+      <th>第三列名用th标签</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td>Totals</td>
+      <td>合计</td>
       <td>21</td>
       <td>23</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>Alice</td>
+      <td>爱丽丝</td>
       <td>10</td>
       <td>11</td>
     </tr>
     <tr>
-      <td>Bob</td>
+      <td>鲍勃</td>
       <td>4</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>Charlie</td>
+      <td>查理</td>
       <td>7</td>
       <td>9</td>
     </tr>
   </tbody>
 </table>
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
+这是个分隔符
 -----
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+想要添加其他内容，可以通过此链接 <a href="https://github.com/poole/poole/issues/new">打开一个问题.</a>
 
 
 
