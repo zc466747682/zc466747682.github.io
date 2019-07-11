@@ -1,7 +1,7 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: SuperSlamZzz的博客
+email: zhuchun92@163.com
+description: 2019年07月11日坐标武汉，开始整理我的知识库.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
@@ -13,12 +13,12 @@ disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: SuperSlamZzz
+facebook_username: Nouse
+twitter_username: Nouse
+instagram_username: Nouse
+linkedin_username: Nouse
+medium_username: Nouse
 
 # Build settings
 markdown: kramdown
@@ -36,11 +36,11 @@ plugins:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 主页
     url: /
-  - title: About
+  - title: 关于博客
     url: /about/
-  - title: Contact
+  - title: 联系我
     url: /contact/
 
 # Exclude my node related stuff
